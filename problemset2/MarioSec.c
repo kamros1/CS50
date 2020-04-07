@@ -1,4 +1,4 @@
-  #include <cs50.h>
+#include <cs50.h>
 #include <stdio.h>
 
 int main(void)
@@ -14,7 +14,7 @@ do
 
 while (h<1 || h>8);  
 //koniec pierwszej petli-------------------------
-//druga petla poczatek-----------------------
+//druga petla poczatek---------------------------
 int space, pr, row;
 space=0;
 pr=0;
